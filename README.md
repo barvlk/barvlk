@@ -1,4 +1,4 @@
-<h1 align="center"><code>~Welcome~</code> 🦇</h1>
+<h1 align="center"><code>~Welcome~</code> </h1>
 
 <h2 align="center"><i>About Me</i></h2>
 
