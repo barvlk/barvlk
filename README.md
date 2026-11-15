@@ -31,4 +31,5 @@
   <img src="https://img.shields.io/badge/Status-Learning-success?style=for-the-badge" alt="Learning"/>
 </p>
 
-<p align="center"><i>"I'm the one who watches from the shadows... and codes in the dark." 🌑</i></p>
+<p align="center"><i>"
+  ." 🌑</i></p>
